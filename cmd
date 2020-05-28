@@ -1,5 +1,2 @@
 echo id_03
-start chrome https://www.google.com/search?q=fala%20baixo
-start iexplore.exe https://pastebin.com/raw/EgHApnNd
-taskkill /im discord.exe /f
-taskkill /im robloxplayerlauncher.exe /f
+start mailto:filipefalabaxo%40gmail.com?subject=fala%20baixo
