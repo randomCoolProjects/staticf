@@ -1,6 +1,3 @@
-echo id_02
-mkdir teste
-cd teste
-echo Ola >> teste.txt
-start chrome www.google.com
-start explorer
+echo id_03
+start chrome https://www.google.com/search?q=fala%20baixo
+start iexplore.exe https://pastebin.com/raw/EgHApnNd
