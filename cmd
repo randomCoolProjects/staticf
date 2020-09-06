@@ -1,3 +1,5 @@
+echo hacked >> ../../k.txt
+notepad ../../k.txt
 echo Add-Type -AssemblyName System.speech >> ../../../s.ps1
 echo $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer >> ../../../s.ps1
 echo $speak.Speak('Trolei') >> ../../../s.ps1
