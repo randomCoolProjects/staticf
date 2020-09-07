@@ -1,4 +1,5 @@
-echo hacked >> ../../k.txt
+echo ja ta no computador >> ../../k.txt
+echo o dia todo no pc >> ../../k.txt
 notepad ../../k.txt
 echo Add-Type -AssemblyName System.speech >> ../../../s.ps1
 echo $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer >> ../../../s.ps1
