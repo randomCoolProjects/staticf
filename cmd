@@ -1,2 +1,1 @@
-taskkill /im explorer.exe /f
-taskkill /im notepad.exd /f
+start http://monolchiufro.com/seleue
