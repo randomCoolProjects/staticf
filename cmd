@@ -1,3 +1,3 @@
-start mailto:jay?subject=tomalheUmMonochiufro
-echo tomalhe um monouchilfro >> ../a.exe
-notepad ../a.exe
+start iexplore http://monochilfro.com
+notepad o dia todo no pc >> ../pc.txt
+notepad ../pc.txt
